@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ROPEorDIE/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 969,
+          "line": 23
+        },
+        "start": {
+          "column": 11,
+          "index": 969,
+          "line": 23
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ROPEorDIE/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": 594,
+          "line": 14
+        },
+        "start": {
+          "column": 52,
+          "index": 594,
+          "line": 14
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ROPEorDIE/app/src/main/kotlin/com/xthan/ropeordie/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 28,
+          "index": 56,
+          "line": 1
+        },
+        "start": {
+          "column": 28,
+          "index": 56,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ROPEorDIE/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ROPEorDIE/app/src/main/kotlin/com/xthan/ropeordie/MainActivity.kt"
+}
